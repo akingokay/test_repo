@@ -21,3 +21,4 @@ detection:
 falsepositives:
     - Unknown
 level: medium
+test: test_gokay
